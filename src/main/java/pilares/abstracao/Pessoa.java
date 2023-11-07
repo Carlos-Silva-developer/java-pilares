@@ -1,6 +1,6 @@
-package abstracao;
+package pilares.abstracao;
 
-import heranca.Cachorro;
+import pilares.heranca.Cachorro;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

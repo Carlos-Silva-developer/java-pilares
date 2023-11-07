@@ -1,6 +1,6 @@
-package encapsulamento;
+package pilares.encapsulamento;
 
-import abstracao.Pessoa;
+import pilares.abstracao.Pessoa;
 
 import java.time.LocalDate;
 

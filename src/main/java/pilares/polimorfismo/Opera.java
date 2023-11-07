@@ -1,4 +1,4 @@
-package polimorfismo;
+package pilares.polimorfismo;
 
 import lombok.Getter;
 import lombok.Setter;
