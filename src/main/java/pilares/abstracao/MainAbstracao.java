@@ -1,7 +1,6 @@
-package abstracao;
+package pilares.abstracao;
 
-import encapsulamento.ContaBancaria;
-import heranca.Cachorro;
+import pilares.heranca.Cachorro;
 
 import java.time.LocalDate;
 

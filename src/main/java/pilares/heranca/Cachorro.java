@@ -1,6 +1,6 @@
-package heranca;
+package pilares.heranca;
 
-import abstracao.Animal;
+import pilares.abstracao.Animal;
 import lombok.Getter;
 
 @Getter

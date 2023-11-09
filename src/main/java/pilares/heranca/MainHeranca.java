@@ -1,6 +1,4 @@
-package heranca;
-
-import abstracao.Animal;
+package pilares.heranca;
 
 public class MainHeranca {
     public static void main(String[] args) {

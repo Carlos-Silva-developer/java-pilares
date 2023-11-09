@@ -1,6 +1,6 @@
-package heranca;
+package pilares.heranca;
 
-import abstracao.Animal;
+import pilares.abstracao.Animal;
 
 public class Gato extends Animal {
     public Gato(String nome, Integer numeroDePatas, String raca, Float altura) {

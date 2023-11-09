@@ -1,4 +1,4 @@
-package encapsulamento;
+package pilares.encapsulamento;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
