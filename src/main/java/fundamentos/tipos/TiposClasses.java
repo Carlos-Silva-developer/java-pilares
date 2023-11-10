@@ -12,9 +12,10 @@ public class TiposClasses {
     private Integer integer;
     private Float aFloat;
     private Double aDouble;
-    // lista não aceitam tipos primitivos
+    // lista não aceita tipos primitivos
     private List<Integer> listaDeInts;
     private List<String> ListaDePalavras;
+    // arrays aceitam tipos primitivos
     private Integer[] arrayDeInteger;
 
 
